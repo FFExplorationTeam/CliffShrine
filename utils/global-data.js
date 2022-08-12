@@ -1,13 +1,13 @@
 export const getGlobalData = () => {
   const name = process.env.BLOG_NAME
     ? decodeURI(process.env.BLOG_NAME)
-    : 'Jay Doe';
+    : 'Soliloquy Shrine Exploration Team';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Next.js Blog Theme';
+    : 'the Soliloque Shrine Project.';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'All rights reserved.';
+    : 'To contact us, please head to the official Mousehunt Discord Server and you will probably find one of us there. This is currently a dummy project with no actual created information just yet, but more info will follow soon';
 
   return {
     name,
