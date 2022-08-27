@@ -1,7 +1,8 @@
 ---
+layout: default
 title: First Encounters
+nav_order: 3
 description: "Chapter 0: A Brand-new region has been found!"
-date: Aug 12 2022
 ---
 
 Upon outwriting the Mythweaver, it frantically scribbles something on a tattered piece of parable papyrus, opening an unknown path deeper into folklore forest.  
