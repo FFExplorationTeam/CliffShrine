@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Encyclopaedia Folkloria
+nav_order: 2
 description: "Welcome to the Encyclopaedia of the Soliloquy Shrine Project. It has all information gathered during individual exploration reports"
-date: Jan 2 2000
 ---
 
 This is the Soliloquy Shrine Exploration Team's full Encyclopaedia. The Soliloquy Shrine Exploration Team will report in when they make new discoveries, but this will always be the post containing a combination of all information gathered during the exploration.
