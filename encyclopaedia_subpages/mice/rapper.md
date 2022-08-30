@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: The Shrine's mice
+parent: The Shrine's Mice
 grant_parent: Encyclopaedia Folkloria
 title: The Rapper
 permalink: /encyclopaedia/mice/saint
