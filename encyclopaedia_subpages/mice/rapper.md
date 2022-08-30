@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: The Shrine's mice
+parent: /encyclopaedia/mice
 title: The Saint
 permalink: /encyclopaedia/mice/saint
 nav_order: 1
