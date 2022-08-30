@@ -4,6 +4,7 @@ title: The Shrine's items
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/loot
 nav_order: 3
+has_children: true
 ---
 
 # Loot

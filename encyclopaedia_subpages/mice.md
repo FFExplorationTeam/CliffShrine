@@ -4,6 +4,7 @@ title: The Shrine's mice
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/mice
 nav_order: 2
+has_children: true
 ---
 
 # Mice

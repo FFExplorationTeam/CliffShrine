@@ -4,6 +4,7 @@ title: The Shrine's Environment
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/habitats
 nav_order: 1
+has_children: true
 ---
 
 # Habitats
