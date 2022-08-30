@@ -24,5 +24,5 @@ willing to bet on my very last chair
 ### Literary Device:
 When words don't make sense, are bland on their own  
 Fill a box 'till it's dense, get a phrase on a loan  
-value's up, it's immense, you even found the right tone
-at your flashcards' expense, wouldn't use on a phone
+value's up, it's immense, even found the right tone  
+at your flashcards' expense, something you should've known
