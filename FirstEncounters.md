@@ -9,7 +9,7 @@ permalink: /chapter_0
 ---
 The original exploration of the Folklore Forest has shown that reality in this place seems to reform based on the thought of those observing. For this reason, according to Royal Decree 9, this, as well as any other report in name of His Majesty the King, will include any reasonable opinion, interpretation and hunch regarding the explored area.  
 
----
+ ---
    
 Since the discovery of the Table of Contents, a frantic write-off has been taking place there between the best hunters Gnawnia has to offer and the Mythweaver. Thankfully, the hunters have had the upper hand for the vast majority of this seemingly never-ending struggle.  
 Despite this literary dominance, a bewildering, concerning development emerged five Gnawnian hunts into July. Knowing the risks of this information spreading, this has been kept silent until a Royal Exploration Team could be dispatched to explore the consequences of what happened.  
