@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Looking Glass Incident \#2, Report 1
+title: Looking Glass Incident #2, Report 1
 nav_order: 3
 permalink: /chapter_0
 ---
 
 # Looking Glass Incident #2, Report 1
 ---
-The original exploration of the Folklore Forest has shown that reality in this place seems to reform based on the thought of those observing. For this reason, according to Royal Decree 9, this, as well as any other report in name of His Majesty the King, will include any reasonable opinion, interpretation and hunch regarding the explored area.
+The original exploration of the Folklore Forest has shown that reality in this place seems to reform based on the thought of those observing. For this reason, according to Royal Decree 9, this, as well as any other report in name of His Majesty the King, will include any reasonable opinion, interpretation and hunch regarding the explored area.  
+
 ---
    
 Since the discovery of the Table of Contents, a frantic write-off has been taking place there between the best hunters Gnawnia has to offer and the Mythweaver. Thankfully, the hunters have had the upper hand for the vast majority of this seemingly never-ending struggle.  
