@@ -7,6 +7,8 @@ nav_order: 1
 has_children: true
 ---
 
+{: .no_toc }
+
 # Habitats
 
 This chapter focusses on the environment around the shrine and where the different groups of mice live. Unfortunately, we lack information on this end for now.
