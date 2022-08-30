@@ -7,4 +7,4 @@ permalink: /encyclopaedia/mice/rapper
 nav_order: 2
 ---
 
-<img src='/assets/kuh.png'>
+<img src='/assets/Kuh.png'>
