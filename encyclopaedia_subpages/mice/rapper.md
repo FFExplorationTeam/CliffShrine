@@ -7,4 +7,4 @@ permalink: /encyclopaedia/mice/rapper
 nav_order: 2
 ---
 
-<img src="/assets/smiley.png" alt="pain">
+<img src="/workspaces/CliffShrine/assets/smiley.png" alt="pain">
