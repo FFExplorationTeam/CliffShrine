@@ -1,7 +1,8 @@
 ---
 layout: default
-parent: /encyclopaedia/mice
-title: The Saint
+parent: The Shrine's mice
+grant_parent: Encyclopaedia Folkloria
+title: The Rapper
 permalink: /encyclopaedia/mice/saint
 nav_order: 1
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Shrine's items
+title: The Shrine's Items
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/loot
 nav_order: 3
