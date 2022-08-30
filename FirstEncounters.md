@@ -7,7 +7,7 @@ permalink: /chapter_0
 
 # Looking Glass Incident #2, Report 1
 ---
-The original exploration of the Folklore Forest has shown that reality in this place seems to reform based on the thought of those observing. For this reason, according to Royal Decree 9, this, as well as any other report in name of His Majesty the King, will include any reasonable opinion, interpretation and hunch regarding the explored area.  
+The initial exploration of the Folklore Forest has shown that reality in this place seems to reform based on the thought of those observing. For this reason, according to Royal Decree 9, this, as well as any other report in name of His Majesty the King, will include any reasonable opinion, interpretation and hunch regarding the explored area.  
 
  ---
    
