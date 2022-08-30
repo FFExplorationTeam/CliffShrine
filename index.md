@@ -1,18 +1,25 @@
 ---
 layout: default
 title: Home
+permalink: /
 nav_order: 1
-description: "the Soliloque Shrine Project."
 ---
 
 # the Soliloque Shrine Project
 
-To contact us, please head to the official Mousehunt Discord Server and you will probably find one of us there. This is currently a dummy project with no actual created information just yet, but more info will follow soon.
+Upon outwriting the Mythweaver, it frantically scribbles something on a tattered piece of parable papyrus, opening an unknown path deeper into folklore forest.  
+Two paths reveal themselves, heading towards a mysterious Shrine and a bottomless cliff.  
+
+A lot of odd things are going on with this region, both with regards to how Gnawnia's folklore has changed when it appeared and with the mice in it. For this reason, it is not open for hunters yet, but we will dedicate ourselves to exploring this area further.
+
+
+To contact us or get notified of updates, please head to the official Mousehunt Discord Server and you will probably find one of us there.
 
 ## Contributing
 
 Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
+Please don't just bug Wayew with everything though, we know the art is terrific!
 
 ## Disclaimer
 
-All MouseHunt images included here are property of [HitGrab Inc](https://hitgrab.com/).
+All images included here are fanmade, 

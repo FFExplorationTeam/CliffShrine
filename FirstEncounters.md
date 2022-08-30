@@ -2,10 +2,7 @@
 layout: default
 title: First Encounters
 nav_order: 3
-description: "Chapter 0: A Brand-new region has been found!"
+permalink: /chapter_0
 ---
 
-Upon outwriting the Mythweaver, it frantically scribbles something on a tattered piece of parable papyrus, opening an unknown path deeper into folklore forest.  
-Upon exploring further, two paths reveal themselves, heading towards a mysterious Shrine and a bottomless cliff.  
-
-A lot of odd things are going on with this region, both with regards to how gnawnia's folklore has changed and when it appeared and with the mice in it. For this reason, it is not open for hunters yet, but we will dedicate ourselves to exploring this area further.
+soon tm

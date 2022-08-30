@@ -2,12 +2,15 @@
 layout: default
 title: Encyclopaedia Folkloria
 nav_order: 2
-description: "Welcome to the Encyclopaedia of the Soliloquy Shrine Project. It has all information gathered during individual exploration reports"
+permalink: /encyclopaedia
+has_children: true
 ---
 
-This is the Soliloquy Shrine Exploration Team's full Encyclopaedia. The Soliloquy Shrine Exploration Team will report in when they make new discoveries, but this will always be the post containing a combination of all information gathered during the exploration.
+# Encyclopaedia Folkloria
 
-This information will be divided in multiple sections. The first section you can find revolves around the locations and habitats of mice near the Shrine. The second thing you can find are the region's native mice with what we discovered about them. Lastly, some information on the odd items found in the area can be found.
+This is the Soliloquy Shrine Exploration Team's full Encyclopaedia. The Soliloquy Shrine Exploration Team will write up dedicated reports whenever they make new discoveries, but this will always be the source containing all information gathered during the exploration.
+
+This information will be divided in multiple sections. The first section revolves around the locations and habitats of mice near the Shrine. The second thing you can find are the region's native mice with what we discovered about them. Lastly, some information on the odd items found in the area can be found.
 
 ---
 # The areas and sublocations
