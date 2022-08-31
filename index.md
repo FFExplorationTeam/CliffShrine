@@ -18,7 +18,6 @@ To contact us or get notified of updates, please head to the official Mousehunt 
 ## Contact us
 
 Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
-Please don't just bug Wayew with everything though, we know the art is terrific!
 
 ## Disclaimer
 
