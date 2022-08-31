@@ -7,7 +7,7 @@ permalink: /encyclopaedia/mice/rapper
 nav_order: 2
 ---
 
-# Raping Rabble Rouser
+# Rapping Rabble Rouser
 <img src="../../assets/rapper.png" alt="Rapping Rabble Rouser">
 _Archivist's note: this mouse says some weird stuff, and even the Exploration Team doesn't understand what some of it means. If this occurs again, incomprehensible gibberish will be withheld from future reports and the archive._
 
