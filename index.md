@@ -15,7 +15,7 @@ A lot of odd things are going on with this region, both with regards to how Gnaw
 
 To contact us or get notified of updates, please head to the official Mousehunt Discord Server and you will probably find one of us there.
 
-## Contributing
+## Contact us
 
 Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
 Please don't just bug Wayew with everything though, we know the art is terrific!
