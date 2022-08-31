@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Looking Glass Incident 2, Report 1
+title: Looking Glass Incident 2.1
 nav_order: 3
 permalink: /chapter_0
 ---

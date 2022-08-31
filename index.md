@@ -22,4 +22,4 @@ Please don't just bug Wayew with everything though, we know the art is terrific!
 
 ## Disclaimer
 
-All images included here are fanmade, 
+All images included here are fanmade and inspired greatly by the game this is based on, namely [Mousehunt](https://www.mousehuntgame.com/) [(HitGrab)](https://hitgrab.com/). If you didn't know that game already, then I'm quite curious on how you ended up here, but that's not the pont here. This is an entirely unofficial project, so please do NOT bother the game's devs with any issues regarding this project.
