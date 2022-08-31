@@ -2,7 +2,7 @@
 layout: default
 parent: The Shrine's Mice
 grand_parent: Encyclopaedia Folkloria
-title: Raping Rabble Rouser Mouse
+title: Raping Rabble Rouser
 permalink: /encyclopaedia/mice/rapper
 nav_order: 2
 ---
