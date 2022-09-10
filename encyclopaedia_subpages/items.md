@@ -23,3 +23,6 @@ When words don't make sense, are bland on their own
 Fill a box 'till it's dense, get a phrase on a loan  
 value's up, it's immense, even found the right tone  
 at your flashcards' expense, something you should've known
+
+### Broken Records
+Used to be famous but wasn't that good
