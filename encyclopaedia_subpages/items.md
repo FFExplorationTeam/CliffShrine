@@ -26,3 +26,12 @@ at your flashcards' expense, something you should've known
 
 ### Broken Records
 Used to be famous but wasn't that good
+Got overplayed, without reading the mood
+Now noone really likes it, or knows the chords
+but it might distract some, for what that's worth
+
+### Smash Hits
+No matter your focus, this will break it
+for noone can withstand a true smash hit
+it might be the best you'll ever hear
+so just accept and grab a beer
