@@ -10,6 +10,16 @@ nav_order: 3
 
 Despite being a truly strange region, the mice in these lands also drop mysterious loot. An overview of the loots we have either found or heard rumors about can be found here. Once these rumors get some credible source, they will be transitioned to their own dedicated position.
 
+## General Items
+### How not to run a Mousecult (book)
+One of the books retrieved from the Soliloque Shrine. It talks about how to run an organisation under the guise a religious institution.
+
+### the Hangers of the Cliff (book)
+One of the books retrieved from the Soliloque Shrine. It is an encyclopaedia with many myths, most of them talking about the strongest mice that dominate Gnawnia. Next to these myths, it also has a number of more regular mice.
+
+### the Undescribed (book)
+One of the books retrieved from the Soliloque Shrine, and seemingly a sequel to the Hangers of the Cliff. Unfortunately, this book was mostly torn apart, obscuring the potential horrors documented in it.
+
 ## Rapper's Ramblings
 The following items have been described by the Rapping Rabble Rouser we found at the side of the road
 ### Fake Flashcards
