@@ -21,7 +21,7 @@ The second are Literary Devices. These are magical little boxes that you can fil
 
 The second group, the Troublemakers, are quite different. They live for two things: music and festivals. Some of them are experienced in making music or assisting in the organisation of such events, but most of them are just plain loud. This clearly upsets the Vengeful Villains, who aim to do nothing but stay focused on their own monologues to stay safe. Once the Villians hear the Troublemakers, the chanting horde will come rushing out to destroy any Broken Records or Smash Hits being played by the rowdy bunch.
 
-One of these Troublemakers is our dear ally, Rodentriguez, the Sneaky Stagebuilder who has helped me with the setup of numerous major events in the past. In exchange for some juicy SUPER|Brie+, we manage to convince him to gather some information for us while he sneaks inside the Soliloque Shrine. The next morning, we find 3 books near the entrance of our tents:
+One of these Troublemakers is our dear ally, Rodentriguez, the Sneaky Stagebuilder who has helped me with the setup of numerous major events in the past. In exchange for some juicy SUPER|Brie+, we manage to convince him to gather some information for us while he sneaks inside the Soliloquy Shrine. The next morning, we find 3 books near the entrance of our tents:
 
 <img src="./assets/abbishop.png" alt="Abbreviating Archbishop">
 
@@ -38,8 +38,8 @@ The second book is titled 'The Hangers of the Cliff'. It is an encyclopedia that
 Considering Rodentriguez' skill in gathering useful information, we are somewhat confused as to why he returned with this book, but we assume time will tell. Maybe the other path revealed by the Mythweaver can tell us more about this.
 
 The third book seems to be a sequel to 'The Hangers of the Cliff', named 'The Woven'. Oddly enough, this book is primarily filled with myths from before human records. One example is the story of a mouse's battle with the Empress of the North, a dragon that nourished agriculture in the unexplored lands north of the Toxic Spill. While the story ends vague suggestions of a potential fall in its near future, the illustrations hint that this mouse may very well be the threat we now know as Icewing.
- The latter half of the book is ripped apart and covered with blood, which terrifies our mouse experts. They have definitely seen worse, making their fear unusual. The final legible page is an introduction to the final chapter, named 'The Unwritten'.
+The latter half of the book is ripped apart and covered with blood, which terrifies our mouse experts. They have definitely seen worse, making their fear unusual. The final legible page is an introduction to the final chapter, named 'The Unwritten'.
 
-Details about the latter two books will be translated and analysed between this and the next report.
+Details about the latter two books will be translated and analysed between this and the next report, in which we hope to be able to provide a more technical explanation on the workings of the Shrine.
 A story from these should be delivered approximately once a week for the forseeable future, unless more pressing events demand reporting.
 <img src="./assets/Dracobook.png" alt="the Unwritten">

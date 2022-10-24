@@ -1,4 +1,4 @@
-# the Soliloque Shrine Project
+# the Soliloquy Shrine Project
 
 To contact us, please head to the official Mousehunt Discord Server and you will probably find one of us there. This is currently a dummy project with no actual created information just yet, but more info will follow soon.
 

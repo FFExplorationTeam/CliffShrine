@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 ---
 
-# the Soliloque Shrine Project
+# the Soliloquy Shrine Project
 
 Upon outwriting the Mythweaver, it frantically scribbles something on a tattered piece of parable papyrus, opening an unknown path deeper into folklore forest.  
 Two paths reveal themselves, heading towards a mysterious Shrine and a bottomless cliff.  

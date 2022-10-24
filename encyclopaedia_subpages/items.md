@@ -12,13 +12,13 @@ Despite being a truly strange region, the mice in these lands also drop mysterio
 
 ## General Items
 ### How not to run a Mousecult (book)
-One of the books retrieved from the Soliloque Shrine. It talks about how to run an organisation under the guise a religious institution.
+One of the books retrieved from the Soliloquy Shrine. It talks about how to run an organisation under the guise a religious institution.
 
 ### the Hangers of the Cliff (book)
-One of the books retrieved from the Soliloque Shrine. It is an encyclopaedia with many myths, most of them talking about the strongest mice that dominate Gnawnia. Next to these myths, it also has a number of more regular mice.
+One of the books retrieved from the Soliloquy Shrine. It is an encyclopaedia on the mice that live around the Hanging Cliffs, a currently unexplored region that allegedly can be found deep within the Folklore Forest.
 
-### the Undescribed (book)
-One of the books retrieved from the Soliloque Shrine, and seemingly a sequel to the Hangers of the Cliff. Unfortunately, this book was mostly torn apart, obscuring the potential horrors documented in it.
+### The Woven (book)
+One of the books retrieved from the Soliloquy Shrine, and seemingly a sequel to the Hangers of the Cliff. It narrates myths from before humans started recording Gnawnian history,  Unfortunately, the latter half of this book was mostly torn apart, obscuring the potential horrors documented in it.
 
 ## Rapper's Ramblings
 The following items have been described by the Rapping Rabble Rouser we found at the side of the road
