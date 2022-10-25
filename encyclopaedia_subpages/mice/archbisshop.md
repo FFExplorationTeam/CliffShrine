@@ -3,7 +3,7 @@ layout: default
 parent: The Shrine's Mice
 grand_parent: Encyclopaedia Folkloria
 title: Abbreviating Archbishop Mouse
-permalink: /encyclopaedia/mice/saint
+permalink: /encyclopaedia/mice/aab
 nav_order: 1
 ---
 
