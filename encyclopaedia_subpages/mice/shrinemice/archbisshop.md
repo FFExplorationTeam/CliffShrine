@@ -1,10 +1,10 @@
 ---
 layout: default
-parent: The Shrine's Mice
+parent: adversaries
 grand_parent: Encyclopaedia Folkloria
 title: Abbreviating Archbishop Mouse
 permalink: /encyclopaedia/mice/aab
-nav_order: 1
+nav_order: 4
 ---
 
 # Abbreviating Archbishop Mouse
