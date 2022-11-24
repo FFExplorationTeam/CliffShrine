@@ -4,6 +4,8 @@ parent: Encyclopaedia Folkloria
 title: The Shrine's Mice
 permalink: /encyclopaedia/mice/shrineMice
 nav_order: 1
+has_children: true
+
 ---
 # the Soliloquy Shrine
 
