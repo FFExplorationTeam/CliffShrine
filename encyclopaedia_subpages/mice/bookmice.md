@@ -2,7 +2,7 @@
 layout: default
 parent: adversaries
 grand_parent: Encyclopaedia Folkloria
-title: motc
+title: Mice of the Cliff
 permalink: /encyclopaedia/mice/bookMice
 nav_order: 2
 has_children: true
