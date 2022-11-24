@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Shrine's Mice
+title: adversaries
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/mice
 nav_order: 2
