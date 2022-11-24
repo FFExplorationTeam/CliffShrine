@@ -1,6 +1,7 @@
 ---
 layout: default
-parent: Encyclopaedia Folkloria
+parent: adversaries
+grand_parent: Encyclopaedia Folkloria
 title: motc
 permalink: /encyclopaedia/mice/bookMice
 nav_order: 2
