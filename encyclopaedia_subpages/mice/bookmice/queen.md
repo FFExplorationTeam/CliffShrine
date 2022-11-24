@@ -7,6 +7,7 @@ permalink: /encyclopaedia/mice/queen_of_the_north
 nav_order: 1
 ---
 # Queen of the North
+<img src="../../assets/QotN.jpg" alt="Queen of the North">
 
 All over gnawnia, stories circulate about an ancient, hateful mouse who shall return to raid gnawnia to rule as its icy queen.
 
