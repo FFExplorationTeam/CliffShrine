@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Mice of the Cliffs
+parent: motc
 title: Queen of the North
 permalink: /encyclopaedia/mice/queen_of_the_north
 nav_order: 1

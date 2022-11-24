@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Encyclopaedia Folkloria
-title: Mice of the Cliffs
+title: motc
 permalink: /encyclopaedia/mice/bookMice
 nav_order: 2
 has_children: true
