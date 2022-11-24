@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: The Shrine's Mice
-grand_parent: adversaries
 title: The Saint
 permalink: /encyclopaedia/mice/saint
 nav_order: 1

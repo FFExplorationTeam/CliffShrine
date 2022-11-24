@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: The Shrine's Mice
-grand_parent: adversaries
 title: Abbreviating Archbishop Mouse
 permalink: /encyclopaedia/mice/aab
 nav_order: 4

@@ -1,7 +1,6 @@
 ---
 layout: default
-parent: adversaries
-grand_parent: Encyclopaedia Folkloria
+parent: Encyclopaedia Folkloria
 title: Mice of the Cliffs
 permalink: /encyclopaedia/mice/bookMice
 nav_order: 2
