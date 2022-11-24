@@ -4,7 +4,7 @@ title: adversaries
 parent: Encyclopaedia Folkloria
 permalink: /encyclopaedia/mice
 nav_order: 2
-has_children: false
+has_children: true
 ---
 
 # Mice

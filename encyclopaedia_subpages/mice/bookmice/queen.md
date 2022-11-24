@@ -1,6 +1,7 @@
 ---
 layout: default
-parent: motc
+parent: adversaries
+grand_parent: Encyclopaedia Folkloria
 title: Queen of the North
 permalink: /encyclopaedia/mice/queen_of_the_north
 nav_order: 1
